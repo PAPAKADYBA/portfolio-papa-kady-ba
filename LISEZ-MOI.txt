@@ -1,0 +1,20 @@
+PORTFOLIO — PAPA KADY BA
+
+1. Ouvrir le dossier portfolio dans Visual Studio Code.
+2. Ouvrir index.html dans le navigateur (ou utiliser Live Server).
+3. Les pages sont dans pages/ et la feuille de style dans css/style.css.
+4. Les images provisoires sont dans images/.
+
+PERSONNALISATION DES IMAGES
+- Remplacer images/avatar.svg par votre portrait (ou modifier le src dans index.html).
+- Remplacer images/projet-chauffage.svg par une capture de votre simulation thermique.
+- Remplacer images/projet-parallele.svg par vos tableaux ou graphiques de calcul parallèle.
+Les chemins des images sont indiqués dans les pages HTML.
+
+À COMPLÉTER AVANT PUBLICATION
+- Le parcours Licence 1, Licence 2 et baccalauréat.
+- Les coordonnées réelles et liens professionnels dans pages/contact.html.
+- Vérifier l'intitulé et l'année de formation affichés.
+- Le formulaire de contact est une maquette non connectée : il faut un service de formulaire ou un backend pour recevoir les messages.
+
+Aucun pourcentage de compétence ni résultat chiffré non confirmé n'a été ajouté.
